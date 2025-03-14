@@ -12,7 +12,7 @@ The Character Error Rate (CER) and Word Error Rate (WER) were used to evaluate t
 - U-Net based segmentation model – A CNN-based encoder-decoder approach for text layout detection.
 - Canny edge detection with contour filtering – Utilized to identify tightly packed text regions using edge detection and morphological operations.
 
-3. OCR + Layout Detection Integration:
+# 3. OCR + Layout Detection Integration:
 PaddleOCR was integrated with bounding boxes to visualize detected text areas on the manuscript image.
 
 Outcome:
